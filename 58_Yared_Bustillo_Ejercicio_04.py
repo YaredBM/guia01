@@ -1,4 +1,5 @@
 #EJERCICIO 04
+#Elabore un programa que indique cuantas mayúsculas y minúsculas hay en una cadena de caracteres ingresada por teclado.
 cadena = input("Ingrese una palabra: ")
 indice=0
 mayusculas=0
