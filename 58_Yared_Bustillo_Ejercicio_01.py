@@ -1,4 +1,6 @@
 #EJERCICIO 01
+#Desarrolle un programa que pida ingresar una cadena de caracteres }
+#y determine a que letra corresponde la primera y última posición.
 import time
 
 print("POSICION DE LETRAS EN PALABRAS")
