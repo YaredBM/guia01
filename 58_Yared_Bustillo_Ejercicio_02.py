@@ -1,4 +1,6 @@
 #EJERCICIO 02
+#Un programa que pida introducir una contraseña (usando números, letras o caracteres) 
+#e indicar cuantos de cada cual hay en dicha cadena.
 def contar(frase):
     frase = "".join(frase.split(",")).lower()
     ultima_letra = frase[0]
