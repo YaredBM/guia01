@@ -1,4 +1,5 @@
 #EJERCICIO 05
+#Un programa que ingrese una cadena, muestre cuantos espacios hay en ella.
 def espacio(cadena): 
     contar = 0
     for i in range(0, len(cadena)):      
